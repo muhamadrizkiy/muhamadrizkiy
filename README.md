@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/muhamadrizki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="knuhol" height="30" width="40" /></a> 
 
-<h3 align="center">Experienced Frontend Developer based in Indonesia</h3>  
+<h3 align="center">Experienced Software Engineer based in Indonesia</h3>  
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamadrizkiy" alt="knuhol" /></a> </p>  
   
@@ -14,7 +14,7 @@
   
 - 📝 I regulary write articles about living in Jakarta
   
-- 💬 Ask me about **React, JavaScript and responsive design**  
+- 💬 Ask me about **JavaScript**  
   
 - 📫 Reach me at **muhamadrizkiy@gmail.com**  
   
