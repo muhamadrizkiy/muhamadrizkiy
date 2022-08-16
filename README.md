@@ -24,8 +24,8 @@
   
 ### Connect with me:
 
-<img align="left" alt="Muhamad Rizki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"   />
-<img align="left" alt="Muhamad Rizki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/muhamadrizki" target="blank" />
-<img align="left" alt="Muhamad Rizki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.linkedin.com/in/muhamadrizki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="muhamadrizkiy" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/muhamadrizki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhamadrizkiy" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/muhamadrizki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="muhamadrizkiy" height="30" width="40" /></a> 
   
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=muhamadrizkiy&show_icons=true&locale=en" alt="knuhol" /></p>
