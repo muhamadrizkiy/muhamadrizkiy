@@ -24,8 +24,8 @@
   
 ### Connect with me:
 
-[<img align="left" alt="Muhamad Rizki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Muhamad Rizki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Muhamad Rizki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Muhamad Rizki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  />]
+[<img align="left" alt="Muhamad Rizki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="Muhamad Rizki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
   
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=muhamadrizkiy&show_icons=true&locale=en" alt="knuhol" /></p>
