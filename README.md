@@ -5,7 +5,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamadrizkiy" alt="muhamadrizkiy" /></a> </p>  
   
-- 🔭 I’m currently working as Engineering Lead at [Finku]
+- 🔭 I’m currently working as Engineering Lead at [Finku](https://www.finku.id)
   
 - 🌱 I’m currently learning **React Native** & **VueJS** - **NodeJS** & **Golang**
   
