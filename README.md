@@ -8,7 +8,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamadrizkiy" alt="knuhol" /></a> </p>  
   
-- 🔭 I’m currently working on [eateroo]
+- 🔭 I’m currently working as Engineering Lead at [Finku]
   
 - 🌱 I’m currently learning **React Native** & **VueJS** - **NodeJS** & **Golang**
   
