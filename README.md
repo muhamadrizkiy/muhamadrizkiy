@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working as Engineering Lead at [Finku](https://www.finku.id)
   
-- 🌱 I’m currently learning **React Native** & **VueJS** - **NodeJS** & **Golang**
+- 🌱 I’m currently learning **Clean Code** & **Cost Optimization** - **Typescript** & **Golang**
   
 - 📝 I regulary write articles about living in Jakarta
   
