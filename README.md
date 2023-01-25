@@ -1,17 +1,17 @@
 
 <h1 align="left">Hi 👋, I'm Muhamad Rizki</h1>  
 
-<h3 align="left">Experienced Software Engineer based in Indonesia</h3>  
+<h3 align="left">Experienced Engineer based in Indonesia</h3>  
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamadrizkiy" alt="muhamadrizkiy" /></a> </p>  
   
-- 🔭 I’m currently working as Engineering Lead at [Finku](https://www.finku.id)
+- 🔭 I’m currently working as Engineering Manager at [JULO](https://www.julo.co.id)
   
-- 🌱 I’m currently learning **Clean Code** & **Cost Optimization** - **Typescript** & **Golang**
+- 🌱 I’m currently learning **Clean Code** & **Engineering Culture** - **Typescript** & **Golang**
   
-- 📝 I regulary write articles about living in Jakarta
+- 📝 I regulary write articles about Engineering Culture and How to build developer productivity
   
-- 💬 Ask me about **JavaScript**  
+- 💬 Ask me about **Engineering**  
   
 - 📫 Reach me at **muhamadrizkiy@gmail.com**  
   
